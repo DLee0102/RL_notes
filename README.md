@@ -4,7 +4,14 @@ Reference: Mathematical Foundations of Reinforcement Learning course (WINDY Lab)
 
 # Algorithm Introduction Video
 
-[查看短片 HTML 文件（GitHub）](https://github.com/DLee0102/RL_notes/blob/main/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0_%E5%85%A8%E7%AB%A0%E8%8A%82_%E4%BA%94%E5%88%86%E9%92%9F%E7%9F%AD%E7%89%87.html)
+[在新窗口中播放短片](./强化学习_全章节_五分钟短片.html)
+
+<iframe
+  src="./强化学习_全章节_五分钟短片.html"
+  width="100%"
+  height="700"
+  style="border:none;">
+</iframe>
 
 ## Outline
 
